@@ -1,0 +1,4 @@
+static
+======
+
+My personnal blog
